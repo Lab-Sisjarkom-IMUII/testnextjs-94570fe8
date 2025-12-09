@@ -1,0 +1,11 @@
+{
+  "name": "testnextjs",
+  "framework": "nextjs",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testnextjs",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_c00532708ec4a6b8b5e24809f905d42a52b8a5d6c2440b0ec2ea378197312bd8",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testnextjs-94570fe8.git"
+}
