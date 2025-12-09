@@ -6,7 +6,7 @@ export default function Home() {
     <main className="page-container">
       <div className="page-wrapper">
         <nav className="page-nav">
-          <Link href="/" className="nav-link active">Home asbckjabsc </Link>
+          <Link href="/" className="nav-link active">IM-UII CLI</Link>
           <Link href="/about" className="nav-link">About</Link>
           <Link href="/portfolio" className="nav-link">Portfolio</Link>
           <Link href="/contact" className="nav-link">Contact</Link>
