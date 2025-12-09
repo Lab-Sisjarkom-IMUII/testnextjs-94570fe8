@@ -1,9 +1,16 @@
 import './page.css';
+import Link from 'next/link';
 
 export default function Home() {
   return (
     <main className="page-container">
       <div className="page-wrapper">
+        <nav className="page-nav">
+          <Link href="/" className="nav-link active">Home</Link>
+          <Link href="/about" className="nav-link">About</Link>
+          <Link href="/portfolio" className="nav-link">Portfolio</Link>
+          <Link href="/contact" className="nav-link">Contact</Link>
+        </nav>
         <div className="page-content">
           {/* IM-UII Header */}
           <div className="page-header">
